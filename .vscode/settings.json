@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/mahain/AppData/Local/Programs/Python/Python36/python.exe"
+    "python.pythonPath": "/Users/mahain/AppData/Local/Programs/Python/Python36/python.exe",
+    "python.jediEnabled": false
 }
