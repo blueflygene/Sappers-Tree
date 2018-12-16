@@ -6,6 +6,12 @@ import numpy as numpy
 import scipy as scipy
 import tensorflow
 
+
+def main ():
+    #support main data load function before training
+    ops  = pandas_datareader(open(tex.csv))
+
+
 #import other libraries
 
 # Define the instruments to download. We would like to see Apple, Microsoft and the S&P500 index.
